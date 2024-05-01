@@ -20,7 +20,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 🌱 I’m currently learning programming. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/1EMRAN1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/al-emran-hossain-cse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100057578509906&mibextid=JRoKGi)  
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=1EMRAN1&show_icons=true)  
 
