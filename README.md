@@ -1,13 +1,4 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1emran1&label=Profile%20views&color=0e75b6&style=flat" alt="1emran1" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/al-emran-hossain-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="al-emran-hossain-cse" height="30" width="40" /></a>
-</p>
-
-
-
 ![I am GitHub Readme Generator's creator](https://styles.redditmedia.com/t5_a29utq/styles/profileBanner_y1b254pg25xc1.jpeg)
 ### Hi there 👋, my name is Emran
 #### I am GitHub Readme Generator's creator
