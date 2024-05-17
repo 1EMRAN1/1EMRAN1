@@ -1,7 +1,7 @@
 
 ![I am GitHub Readme Generator's creator](https://styles.redditmedia.com/t5_a29utq/styles/profileBanner_y1b254pg25xc1.jpeg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1emran1&label=Profile%20views&color=0e75b6&style=flat" alt="1emran1" /> </p>
+
 
 ## Hi there 👋, my name is Emran
 #### I am GitHub Readme Generator's creator
