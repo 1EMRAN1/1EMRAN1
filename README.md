@@ -1,7 +1,7 @@
 
 ![I am GitHub Readme Generator's creator](https://styles.redditmedia.com/t5_a29utq/styles/profileBanner_y1b254pg25xc1.jpeg)
 
-## Hi there 👋, my name is Emran
+## Hi there 👋,I am Emran,
 #### I am GitHub Readme Generator's creator
 
 I'm an aspiring software engineer with a passion for coding, problem-solving, and creating innovative solutions. Currently a student at Notre Dame University Bangladesh, I'm dedicated to mastering the art and science of software development.
