@@ -32,3 +32,10 @@ Feel free to check out my repositories and connect with me! Let’s build someth
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1emran1&show_icons=true&locale=en" alt="1emran1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1emran1&" alt="1emran1" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1emran1&show_icons=true&locale=en&layout=compact" alt="1emran1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1emran1&show_icons=true&locale=en" alt="1emran1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1emran1&" alt="1emran1" /></p>
